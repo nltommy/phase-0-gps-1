@@ -1,9 +1,11 @@
-*Adding some bold text*
+Adding some **bold** text.
 
-_Adding some italic_
+Adding some _italic_.
 
-[Click here](https://www.google.com/)
+[Click here](https://www.google.com/) to learn something cool!
 
-![alt text](print1.png)
+![alt text](print1.png) We're working together!
 
-this is some extra text
+```
+this is some super awesome code XD
+```
