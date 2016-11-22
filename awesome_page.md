@@ -6,3 +6,4 @@ _Adding some italic_
 
 ![alt text](print1.png)
 
+different text is different
